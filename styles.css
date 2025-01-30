@@ -90,6 +90,13 @@ input {
     transition: 0.4s;
 }
 
+#wish {
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+
+
 /* .change .bar1 {
     transform: translate(0, 11px) rotate(-45deg);
 }
